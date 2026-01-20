@@ -39,5 +39,6 @@ Currently specialized in building fault-tolerant systems and transitioning legac
 ---
 
 <div align="right">
-  <b>Building high-performance solutions?</b> <a href="mailto:sebastiano.gelmetti@gmail.com">Initialize Handshake ➔</a>
+  <b>Building high-performance solutions?</b><br/>
+  Initialize Handshake: <code>sebastiano.gelmetti@gmail.com</code>
 </div>
