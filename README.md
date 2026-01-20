@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=hkmodd&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20Secure%20Systems%20in%20Rust%20%2B%20TypeScript&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
-### 🟢 System Status: OPERATIONAL
+### 🟢 System Status:
 
 > "Engineering chaos into order. Obsessed with memory safety, zero-cost abstractions, and high-performance architecture."
 
