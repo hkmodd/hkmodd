@@ -30,6 +30,16 @@ Currently specialized in building fault-tolerant systems and transitioning legac
 ### 📊 Engineering Metrics
 
 <div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=hkmodd&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hkmodd&theme=github_dark"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hkmodd&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
+
+</div>
+
+<div align="center">
   <a href="https://github.com/hkmodd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hkmodd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkmodd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&hide=python,html,css,jupyter%20notebook"/>
